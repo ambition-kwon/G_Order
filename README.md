@@ -25,6 +25,7 @@
           
 
 # 🤩 시연영상
-[![Video Label](http://img.youtube.com/vi/egbKPk7VnxY/0.jpg)](https://youtu.be/egbKPk7VnxY)
+<!-- [![Video Label](http://img.youtube.com/vi/egbKPk7VnxY/0.jpg)](https://youtu.be/egbKPk7VnxY) -->
+https://github.com/user-attachments/assets/64683ac4-eebc-4dcd-8812-4c4ca98f527a
 
 </div>
